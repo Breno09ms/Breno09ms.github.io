@@ -1,0 +1,51 @@
+.navbar.navbar-light.bg-light {
+    background-color: #044db6!important; /* Change the background color to blue */
+    color: white;
+  }
+
+ .customnavbar{
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+ }
+ 
+ .container-sobre{
+   background-color: white;
+   color: black;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   text-align: center;
+ }
+ .btn-outline-light img {
+   filter: invert(1); /* invert the color to white */
+   
+ }
+ .btn-outline-light:hover img {
+   filter: invert(0); /* revert to original color (black) on hover */
+ }
+
+ .redd{
+  color: #e21526;
+ }
+
+ .kdot{
+  filter: invert(1);
+ }
+
+ .cinquenta{
+  padding-bottom: 75px;
+ }
+
+ .alinhar{
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .centralizer{
+   display: flex;
+   justify-content: center;
+ }
+
+ .centralizerr{
+      display: grid;
+      place-items: center;
+ }
